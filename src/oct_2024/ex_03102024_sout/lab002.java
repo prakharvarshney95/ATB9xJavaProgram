@@ -1,4 +1,4 @@
-package oct_2024.ex_03102024;
+package oct_2024.ex_03102024_sout;
 
 public class lab002 {
     public static void main(String[] args) {
