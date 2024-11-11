@@ -1,4 +1,4 @@
-package oct_2024.ex_19102024_for_loop;
+package oct_2024.ex_21102024_for_loop;
 
 public class lab059 {
     public static void main(String[] args) {
