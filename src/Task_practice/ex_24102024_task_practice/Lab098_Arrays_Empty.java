@@ -1,4 +1,4 @@
-package oct_2024.ex_24102024_task_practice;
+package Task_practice.ex_24102024_task_practice;
 
 import java.util.Arrays;
 import java.util.Scanner;
