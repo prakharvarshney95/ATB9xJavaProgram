@@ -1,4 +1,4 @@
-package Task_practice.ex_24102024_task_practice;
+package Task_practice;
 
 import java.util.Scanner;
 

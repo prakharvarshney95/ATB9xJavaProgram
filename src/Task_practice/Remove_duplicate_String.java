@@ -35,6 +35,6 @@ public interface Remove_duplicate_String {
 
         System.out.println("String without duplicates is: " + results);
         System.out.println("String without duplicates and with reverse order is: " + reversed);
-        System.out.println("String without duplicates and with reverse order is: " + reversedactualString);
+        System.out.println("Actual String and with reverse order is: " + reversedactualString);
     }
 }
