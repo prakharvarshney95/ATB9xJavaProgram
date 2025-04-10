@@ -9,6 +9,7 @@ public interface Remove_duplicate_String {
         String str = sc.nextLine();
         sc.close();
 
+        str = str.toLowerCase();
         String results = "";
 
         for(int i=0; i< str.length(); i++) {
